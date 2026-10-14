@@ -2,6 +2,7 @@
 
 ![Kar Birleştir](docs/afis.svg)
 
+[![APK indir](https://img.shields.io/badge/⬇_APK_indir-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Enskygr234/kar-birlestir/releases/download/son-surum/KarBirlestir.apk)
 [![Oyna](https://img.shields.io/badge/▶_Oyna-tarayıcıda-4fb3e0?style=for-the-badge)](https://enskygr234.github.io/kar-birlestir/)
 [![Lisans](https://img.shields.io/badge/lisans-MIT-e63946?style=for-the-badge)](LICENSE)
 
@@ -27,7 +28,7 @@ Ayaz Ata'yı çağırdıktan sonra devam edersen sürpriz bir aşama daha var.
 ## Telefona kur
 
 - **Ana ekrana ekle (şimdi):** Telefonda Chrome ile [https://enskygr234.github.io/kar-birlestir/](https://enskygr234.github.io/kar-birlestir/) adresini aç → sağ üstteki **⋮** → **Ana ekrana ekle**. Oyun uygulama gibi tam ekran açılır ve internetsiz de çalışır.
-- **APK:** Android APK'sı yakında [Releases](https://github.com/Enskygr234/kar-birlestir/releases) sayfasında olacak.
+- **APK:** [Buradan indir](https://github.com/Enskygr234/kar-birlestir/releases/download/son-surum/KarBirlestir.apk), dosyayı aç ve kur. Telefon ilk seferde "bilinmeyen kaynaklardan yükleme" izni isteyebilir. Her güncellemede GitHub Actions yeni APK'yı kendiliğinden derler.
 
 ## Lisans
 
