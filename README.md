@@ -8,6 +8,18 @@
 
 </div>
 
+<!-- ENS:TANITIM -->
+## 🎬 Tanıtım
+
+<div align="center">
+
+<a href="docs/tanitim.mp4"><img src="docs/tanitim.gif" width="720" alt="Kar Birleştir tanıtım videosu"></a>
+
+<sub>Tam kalitede izlemek için görsele tıkla · MP4, 26 saniye</sub>
+
+</div>
+<!-- /ENS:TANITIM -->
+
 2048 tarzı kış bulmacası. Aynı iki karoyu birleştir, bir üst aşamaya geç: kar tanesinden kartopuna, kardan adama, fenere… ve sonunda **Ayaz Ata**'ya.
 
 **[→ Hemen oyna](https://enskygr234.github.io/kar-birlestir/)**
@@ -33,3 +45,19 @@ Ayaz Ata'yı çağırdıktan sonra devam edersen sürpriz bir aşama daha var.
 ## Lisans
 
 [MIT](LICENSE) © Winterdeveloper
+
+<!-- ENS:ALT -->
+---
+
+<div align="center">
+
+**❄️ ENS Developer'ın diğer projeleri**
+
+🎮 Oyunlar: [Mahalle](https://github.com/Enskygr234/mahalle) · [Ayaz Ata'nın Feneri](https://github.com/Enskygr234/ensdewloper.github.io/tree/main/ayaz-feneri) · [Kayıp Fener](https://github.com/Enskygr234/kayip-fener) · [Son Kış](https://github.com/Enskygr234/son-kis) · [Ayazle](https://github.com/Enskygr234/ayazle) · [Buz Kırıcı](https://github.com/Enskygr234/buz-kirici)
+
+[🌐 Bütün projeler](https://enskygr234.github.io/ensdewloper.github.io/) · [👤 GitHub profilim](https://github.com/Enskygr234)
+
+<sub>Kış gelir, kod yazılır.</sub>
+
+</div>
+<!-- /ENS:ALT -->
